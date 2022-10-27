@@ -1,2 +1,4 @@
 # Ignora la carpeta imagenes
 imagenes
+
+*.jpg
